@@ -21,6 +21,19 @@
   <div>
 <br>
 
+## Deploy to Render ↓ 
+
+- First Fork This Repository 
+
+- Go To Your Render Account and Click New
+
+- Select Blueprint And Select This Repository
+
+- Put your SUDO, SESSION_ID, PORT in Environment Session
+
+- And copy your website url and put your url in Uptimerobot Website
+
+- Tada Your bot is alive for 24/7 !!
 ## Deploy to Koyeb ↓
 
 <a href="https://raganork-web.vercel.app/deploy" target="blank"><img align="center" src="https://i.imgur.com/PNoLtFq.png" alt="Deploy bot" height="112" width="310" /></a>
